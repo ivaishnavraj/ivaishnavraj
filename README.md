@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 ## Hi, I am Vaishnav Raj
-I am First-year Computer Science Engineering student passionate about tech and problem-solving.
+I am Second-year Computer Science Engineering student passionate about tech and problem-solving.
 
 Focused on data structures, algorithms, Python, Java, and web development. 
 
