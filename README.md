@@ -2,11 +2,13 @@
 <br>
 
 <!-- NAVIGATION MY CARRER MAP ! Image -->
-<img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/top_img.png?raw=true" alt="Navigation png" align="center" width= 100%>
+<img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/intro%20banner.png?raw=true" alt="Navigation png" align="center" width= 100%>
 
 <!-- MY Social -->
+<!--
+### 
 
-### 🌐 Socials
+<img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/Social%20bar.png?raw=true" alt="social png" align="center" width=15%>
 <div align="center">
 <a href="https://www.linkedin.com/in/ivaishnavraj/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" height="35" alt="linkedin logo" />
@@ -35,31 +37,22 @@
 
 </div>
 
-
+-->
 <!-- MY SKills -->
 
-### 💻 Skills
+### 
+
+<img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/Skill%20Bar.png?raw=true" alt="skill png" align="center" width=15%>
 <div  align="center">
-
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![Canva](https://img.shields.io/badge/-Canva-000?&logo=canva)
+<br>
+<img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/Language.png?raw=true" alt="Navigation png" align="center" width= 80%>
+<br>
 </div>
-
-
 
 <!-- Github Stats -->
 
-####  📊 Stats:
+####  
+<img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/Stats%20bar.png?raw=true" alt="stats png" align="center" width=15%>
 <div align="center" >
   
   
