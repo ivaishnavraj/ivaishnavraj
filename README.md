@@ -7,7 +7,7 @@
 <!-- MY Social -->
 <!--
 ### 
-
+ 
 <img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/Social%20bar.png?raw=true" alt="social png" align="center" width=15%>
 <div align="center">
 <a href="https://www.linkedin.com/in/ivaishnavraj/" target="_blank">
