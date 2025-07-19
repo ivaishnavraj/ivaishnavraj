@@ -2,7 +2,7 @@
 <br>
 
 <!-- NAVIGATION MY CARRER MAP ! Image -->
-<img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/intro%20banner.png?raw=true" alt="Navigation png" align="center" width= 100%>
+<!-- <img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/intro%20banner.png?raw=true" alt="Navigation png" align="center" width= 100%>
 
 <!-- MY Social -->
 <!--
@@ -39,7 +39,7 @@
 
 -->
 <!-- MY SKills -->
-
+<!--
 ### 
 
 <img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/Skill%20Bar.png?raw=true" alt="skill png" align="center" width=15%>
@@ -50,12 +50,18 @@
 </div>
 
 <!-- Github Stats -->
-
+<!--
 ####  
 <img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/Stats%20bar.png?raw=true" alt="stats png" align="center" width=15%>
+-->
+
+<img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/Pix_Github%20Profile%20page.png" alt="stats png" align="center" width=100%>
+
+
 <div align="center" >
+
   
-  
+
 ![](https://github-readme-stats.vercel.app/api?username=ivaishnavraj&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ivaishnavraj&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaishnavraj&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -68,9 +74,20 @@
 ###
 <p align="center">
   <img src="https://i.gifer.com/GjTI.gif" width="90%" alt="Car Drift GIF">
- 
+ <!-- 
   <img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/80db4013226c3c0fa0d0448274dc55293e3098fc/song_img%20.png?raw=true" width="60%" alt="Song Image">
-    <img src="https://giffiles.alphacoders.com/146/14623.gif" width="30%" alt="Soul image gif">
+ 
+     <img src="https://giffiles.alphacoders.com/146/14623.gif" width="30%" alt="Soul image gif">
+     -->
+    
+
+
+  
+    
+
+
+
+    
 
 </p>
 
@@ -78,6 +95,7 @@
 
 <!--[![](https://visitcount.itsvg.in/api?id=ivaishnavraj&icon=2&color=9)](https://visitcount.itsvg.in)
  -->
-
+<div align="center" >
+ 
  ![snake gif](https://github.com/ivaishnavraj/ivaishnavraj/blob/output/github-snake-dark.svg)
 
