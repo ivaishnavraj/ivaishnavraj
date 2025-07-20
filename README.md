@@ -55,7 +55,7 @@
 <img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/Stats%20bar.png?raw=true" alt="stats png" align="center" width=15%>
 -->
 
-<img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/Pix_Github%20Profile%20page.png" alt="stats png" align="center" width=100%>
+<img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/pix-Github%20Profile%20page.png" alt="MAIN png" align="center" width=100%>
 
 
 <div align="center" >
