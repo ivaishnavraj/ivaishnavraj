@@ -82,11 +82,6 @@
     
 
 
-  
-    
-
-
-
     
 
 </p>
@@ -99,3 +94,5 @@
  
  ![snake gif](https://github.com/ivaishnavraj/ivaishnavraj/blob/output/github-snake-dark.svg)
 
+
+![](https://komarev.com/ghpvc/?username=ivaishnavraj&color=blueviolet)
