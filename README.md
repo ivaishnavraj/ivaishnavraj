@@ -56,7 +56,9 @@
 -->
 
 <img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/pix-Github%20Profile%20page.png" alt="MAIN png" align="center" width=100%>
-
+ <p align="center">
+  <a href="https://buymeacoffee.com/ivaishnavraj"><img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/buymeacoffee.png" alt="Buy Me A Coffee" height="48" /></a>
+ </p>
 
 <div align="center" >
 
@@ -90,9 +92,9 @@
 
 <!--[![](https://visitcount.itsvg.in/api?id=ivaishnavraj&icon=2&color=9)](https://visitcount.itsvg.in)
  -->
+
 <div align="center" >
  
  ![snake gif](https://github.com/ivaishnavraj/ivaishnavraj/blob/output/github-snake-dark.svg)
-
 
 ![](https://komarev.com/ghpvc/?username=ivaishnavraj&color=blueviolet)
