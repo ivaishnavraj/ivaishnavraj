@@ -62,7 +62,10 @@
 
 <div align="center" >
 
-  
+  <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=ivaishnavraj&accent=ff8c42&cell=square&hide_border=true"/>
+  <!-- <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=ivaishnavraj&accent=ff8c42&cell=square&hide_border=true"/> -->
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=ivaishnavraj&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ivaishnavraj&theme=chartreuse-dark&hide_border=false)<br/>
@@ -81,10 +84,6 @@
  
      <img src="https://giffiles.alphacoders.com/146/14623.gif" width="30%" alt="Soul image gif">
      -->
-    
-
-
-    
 
 </p>
 
