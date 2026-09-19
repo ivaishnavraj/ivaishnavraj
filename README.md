@@ -56,6 +56,18 @@
 -->
 
 <img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/pix-Github%20Profile%20page.png" alt="MAIN png" align="center" width=100%>
+
+
+<!--MY PROJECTS -->
+## <img src="https://github.githubassets.com/favicons/favicon-dark.png" width="20" height="20"> Projects
+
+| Icon | Project | Description | Stats | Get the Extension | Role / Status |
+| :---: | :--- | :--- | :---: | :--- | :--- |
+| <img src="https://lh3.googleusercontent.com/hnk0zvzJAtSzVHynds6QLkElxNV_FfHuRquIlmvUe-7tjJwYpmpfG79bXm5f6H3CzigHfRUjqfzQRb4NhJqxYrJ06A=s120" width="40"> | **[Academia ReVanced](https://chromewebstore.google.com/detail/academia-revanced/kkhjcadiccbncoajcohhndhdiijpgmdj?authuser=2&hl=en)** | A feature-rich Chromium extension that enhances **SRM Academia** with academic tools, automation, and a cleaner user experience.</br>**[For SRM University Only]** | **2.2K+ installs** | <img src="https://www.google.com/s2/favicons?domain=chromewebstore.google.com&sz=16" width="16" height="16"> [**Chrome**](https://chromewebstore.google.com/detail/academia-revanced/kkhjcadiccbncoajcohhndhdiijpgmdj?authuser=2&hl=en)<br><img src="https://www.google.com/s2/favicons?domain=microsoftedge.microsoft.com&sz=16" width="16" height="16"> [**Edge**](https://microsoftedge.microsoft.com/addons/detail/academia-revanced/aimpgooblkfholbbjpdkdlaoeobllklf) | <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" height="20"><br>**Developer & Maintainer** |
+| <img src="https://lh3.googleusercontent.com/fvjBalvozDAPE-h4ue2GX8viJhoXpdhh5GHAYY38rJyZg7GA2NgX8rDgSmORS-WAiIxPkRBLmt4fc-zXigbJQMKAsHM=s120" width="40"> | **[CRX Blueprint](https://chromewebstore.google.com/detail/crx-blueprint/ojfoaejaeknkifnmpjhjckelfbpfkgdj?authuser=2&hl=en)** | A developer-focused browser extension for **extracting, parsing,** and **visualizing the source code** of Chrome and Edge extensions. | **220+ installs** | <img src="https://www.google.com/s2/favicons?domain=chromewebstore.google.com&sz=16" width="16" height="16"> [**Chrome**](https://chromewebstore.google.com/detail/crx-blueprint/ojfoaejaeknkifnmpjhjckelfbpfkgdj?authuser=2&hl=en)<br><img src="https://www.google.com/s2/favicons?domain=microsoftedge.microsoft.com&sz=16" width="16" height="16"> [**Edge**](https://microsoftedge.microsoft.com/addons/detail/crx-blueprint/mekaebkinbpmfffjcmdamkohingaagna) | <img src="https://img.shields.io/badge/Active-2ea44f?style=flat-square" height="20"><br>**Developer & Maintainer** |
+| <img src="https://store-images.s-microsoft.com/image/apps.52237.09d1f4fa-88aa-4199-99a2-828ac9730e2b.caa5e660-503a-478a-a078-4b7fdc84d4e8.8b586044-d7df-4ad4-91bb-064808742310?mode=scale&h=100&q=90&w=100" width="40"> | **[Pixterial Tab](https://microsoftedge.microsoft.com/addons/detail/pixterial-tab/lkkgedpmgmboiippfjlkfekplhacomag)** | A clean, **Pixel-inspired new-tab experience** focused on simplicity, aesthetics, and everyday usability. | — | <img src="https://www.google.com/s2/favicons?domain=microsoftedge.microsoft.com&sz=16" width="16" height="16"> [**Edge**](https://microsoftedge.microsoft.com/addons/detail/pixterial-tab/lkkgedpmgmboiippfjlkfekplhacomag)<br><img src="https://www.google.com/s2/favicons?domain=addons.mozilla.org&sz=16" width="16" height="16"> [**Firefox**](https://addons.mozilla.org/en-US/firefox/addon/pixterial-tab/) | <img src="https://img.shields.io/badge/Discontinued-6e7781?style=flat-square" height="20"><br>**Developer** |
+
+<!--Buy me a Coffee -->
  <p align="center">
   <a href="https://buymeacoffee.com/ivaishnavraj"><img src="https://github.com/ivaishnavraj/ivaishnavraj/blob/main/buymeacoffee.png"  target="_blank" alt="Buy Me A Coffee" height="42" /></a>
  </p>
