@@ -105,15 +105,13 @@
  -->
 
 
- 
-<p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=ivaishnavraj&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Vaishnav Raj contribution Space Shooter" />
+
 </p>
 
  <div align="center" >
  
-<!-- ![snake gif](https://github.com/ivaishnavraj/ivaishnavraj/blob/output/github-snake-dark.svg)
+ ![snake gif](https://github.com/ivaishnavraj/ivaishnavraj/blob/output/github-snake-dark.svg)
 
-![](https://komarev.com/ghpvc/?username=ivaishnavraj&color=blueviolet) -->
+![](https://komarev.com/ghpvc/?username=ivaishnavraj&color=blueviolet) 
 
 📧 **Connect:** [ivaishnavraj@gmail.com](mailto:ivaishnavraj@gmail.com)
